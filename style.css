@@ -1,0 +1,27 @@
+label{
+    width: 100px;
+    display: inline-block;
+}
+.about{
+    height: 200vh;
+    display: flex;
+}
+.about-us{
+height: 100vh;
+width: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: pink;
+}
+.logo{
+    background-color: pink;
+}
+
+.register{
+    height: 100vh;
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    background-color: white;
+    }
